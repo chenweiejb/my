@@ -67,6 +67,5 @@
 			<artifactId>cglib</artifactId>
 			<version>3.1</version>
 		</dependency>
-
 	</dependencies>
 </project>
