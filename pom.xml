@@ -16,7 +16,7 @@
 
 	<dependencies>
 
-		<!-- junit_zk -->
+		<!-- junit -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
